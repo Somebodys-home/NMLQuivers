@@ -1,0 +1,4 @@
+name: NMLQuivers
+version: '1.0'
+main: io.github.NoOne.nMLQuivers.NMLQuivers
+api-version: '1.21'
